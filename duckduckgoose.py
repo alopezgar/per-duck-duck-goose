@@ -1,5 +1,5 @@
 import random
-lista = ["Nacho","Vanesa","Tania","Andrea"]
+lista = ["Nacho","Vanesa","Tania","Andrea","hola"]
 posicion = random.randrange(len(lista))
 def pato(lista, posicion):
     return(lista[posicion])
